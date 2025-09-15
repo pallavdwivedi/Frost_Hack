@@ -36,3 +36,5 @@ pip install -r requirements.txt
 [Mayo Grand challenge](https://aapm.app.box.com/s/eaw4jddb53keg1bptavvvd1sf4x3pe9h/file/858370564530)
 [VQGAN](https://github.com/dome272/VQGAN-pytorch)
 [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+
+Slide: https://docs.google.com/presentation/d/1VmXPPmZYgVka2jocxp4B_jyZKF4OgFTxcv9JOkdNNqE/edit?usp=sharing
